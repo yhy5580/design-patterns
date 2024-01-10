@@ -5,6 +5,6 @@ package com.yhy.design.creation.factory.abstractFactory;
  */
 public class MainTest {
     public static void main(String[] args) {
-
+        System.out.println("dd");
     }
 }
