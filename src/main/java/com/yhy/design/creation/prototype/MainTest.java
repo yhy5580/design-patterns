@@ -5,6 +5,7 @@ import com.yhy.design.creation.prototype.service.impl.UserService;
 import com.yhy.design.creation.prototype.service.impl.UserServiceImpl;
 
 /**
+ * 原型模式
  * 用于创建重复的对象，同时又保证性能
  */
 public class MainTest {
