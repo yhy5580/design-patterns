@@ -1,7 +1,5 @@
 package com.yhy.design.creation.factory.simpleFactory.cars;
 
-import com.yhy.design.creation.factory.simpleFactory.cars.AbstractCar;
-
 /**
  * 摩托车
  */
