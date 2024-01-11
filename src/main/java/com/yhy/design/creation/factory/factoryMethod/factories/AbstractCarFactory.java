@@ -1,4 +1,4 @@
-package com.yhy.design.creation.factory.factoryMethod.factorys;
+package com.yhy.design.creation.factory.factoryMethod.factories;
 
 import com.yhy.design.creation.factory.factoryMethod.cars.AbstractCar;
 
