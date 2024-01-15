@@ -1,0 +1,8 @@
+适配器是连接两个类，可以增强一个类。
+装饰器是增强一个类：向一个现有的对象添加新的功能，同时又不改变其结构，属于对象结构型模式；
+                 创建了一个装饰类，用来包装原有的类，并在保持类方法签名完整性的前提下提供了额外的功能。
+
+装饰器使用场景：
+SpringSession中如何进行session和redis关联？HttpRequestWrapper
+MyBatisPlus提取了QueryWrapper
+Spring中的BeanWrapper
